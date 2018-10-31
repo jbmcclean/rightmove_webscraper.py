@@ -6,6 +6,8 @@ import requests
 import pandas as pd
 import datetime as dt
 
+# Test change
+
 class _GetDataFromURL(object):
     """This "private" class does all the heavy lifting of fetching data from the
     URL provided, and then returns data to the main `rightmove_data` class
